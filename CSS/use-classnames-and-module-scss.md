@@ -30,7 +30,7 @@ export const Button = ({ children, color }: buttonType) => {
 };
 ```
 
-```css
+```scss
 
 @mixin button-color($color) {
   background: $color;
