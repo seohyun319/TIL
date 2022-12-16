@@ -10,3 +10,4 @@
 - `git stash drop stash@{번호}`: stash@{번호} stash 제거
 - `git stash pop`: apply && drop
 - `git stash show -p | git apply -R`: stash 적용 이전 상태로 돌리기
+- `git stash push --staged`: staging(git add)된 파일만 stash에 저장
