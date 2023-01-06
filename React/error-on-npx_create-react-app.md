@@ -14,7 +14,8 @@
 `npm uninstall -g create-react-app`로 삭제 후 재설치해도 그대로 안 됨
 
 ### 해결법
-`npm add create-react-app`를 해준다!
+`npm add create-react-app`를 해준다!  
+같이 생기는 노드모듈 처리하기  
 
 ```
 npm uninstall -g create-react-app
